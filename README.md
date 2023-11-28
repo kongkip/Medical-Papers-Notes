@@ -2,24 +2,51 @@
 
 ## About This Repository
 
-Welcome to "Medical-Papers-Notes" – a dedicated repository where I compile and share my personal notes on cutting-edge research papers focusing on the application of Artificial Intelligence (AI) in the medical field. This repository is aimed at providing insightful summaries, key takeaways, and reflections on various aspects of AI-driven medical research.
+Welcome to "Medical-Papers-Notes" – a comprehensive repository dedicated to my personal notes on AI applications in various medical fields. This repository aims to provide in-depth insights into how AI is revolutionizing different aspects of healthcare, from diagnostics to personalized medicine and beyond.
 
 ## Repository Structure
 
-- **Paper Summaries**: For each paper, you'll find a detailed summary highlighting the main objectives, methodology, findings, and implications. 
-- **Critical Analyses**: In addition to summaries, I provide critical analyses of the papers, discussing strengths, limitations, and potential areas of further research.
-- **Implementation Ideas**: Where applicable, I discuss potential ways to implement the theories or techniques presented in the papers.
-- **Resource Links**: Direct links to the papers (where accessible) and any relevant supplementary materials.
-- **Personal Insights**: My personal thoughts and reflections on the paper and its relevance to current and future medical AI applications.
+Each category represents a key application area of AI in medicine, with sub-folders for specific topics. Within each sub-category, papers are organized by year, followed by detailed notes on each paper.
 
-## Topics Covered
+### Categories:
 
-- Predictive Analytics in Healthcare
-- AI in Medical Diagnostics and Imaging
-- Personalized Medicine and Genomics
-- Robotic Assistance in Medical Procedures
-- AI in Public Health and Epidemiology
-- And more...
+#### Diagnostics and Imaging
+  - **Radiology**: Notes on AI applications in analyzing medical imaging like X-rays, MRIs, and CT scans.
+  - **Pathology**: Insights on AI's role in analyzing tissue samples and identifying disease patterns.
+
+#### Personalized Medicine
+  - **Genomics and Genetics**: Explorations into AI in genetic data analysis and its implications for personalized medicine.
+  - **Drug Development**: Notes on how AI is speeding up the discovery and development of new medications.
+
+#### Clinical Decision Support
+  - **Predictive Analytics**: Papers discussing AI's ability to predict patient outcomes and risks.
+  - **Treatment Recommendations**: AI's role in analyzing patient data for treatment planning.
+
+#### Healthcare Operations
+  - **Resource Optimization**: AI applications in optimizing hospital resources and operations.
+  - **Patient Flow Optimization**: Insights into AI's ability to manage patient flow in hospitals.
+
+#### Remote Monitoring and Telehealth
+  - **Wearable Health Monitoring**: Notes on AI in monitoring chronic conditions through wearable tech.
+  - **Telehealth**: AI's role in providing remote medical advice and consultations.
+
+#### Mental Health
+  - **Therapeutic Chatbots**: Explorations into AI-powered chatbots for mental health support.
+  - **Behavioral Analysis**: AI's application in analyzing behavioral patterns for mental health insights.
+
+#### Robotic Surgery and Assistance
+  - **Surgical Robots**: Insights into how AI enhances surgical precision and outcomes.
+  - **Rehabilitation Robots**: Notes on AI in aiding physical therapy and rehabilitation.
+
+#### Epidemiology and Public Health
+  - **Disease Surveillance**: AI's role in tracking and predicting disease outbreaks.
+  - **Healthcare Policy**: How AI assists in shaping and predicting healthcare policy impacts.
+
+### Example File Structure:
+
+- `Diagnostics-and-Imaging/Radiology/2023/title_of_the_paper.md`
+- `Personalized-Medicine/Genomics-and-Genetics/2023/title_of_the_paper.md`
+- ...
 
 ## Contributing
 
