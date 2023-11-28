@@ -1,4 +1,4 @@
-# Predicting Patient Outcomes with Graph Representation Learning
+# [Predicting Patient Outcomes with Graph Representation Learning](https://arxiv.org/pdf/2101.03940.pdf)
 
 This paper by Emma Rocheteau, Catherine Tong, Petar Velickovic, Nicholas Lane, and Pietro Liò, focuses on the prediction of patient outcomes in Intensive Care Units (ICU) using a novel approach that combines Long Short-Term Memory networks (LSTMs) and Graph Neural Networks (GNNs).
 
@@ -29,5 +29,4 @@ This paper by Emma Rocheteau, Catherine Tong, Petar Velickovic, Nicholas Lane, a
 - The paper suggests potential extensions like incorporating shared medications and procedures into the similarity scores.
 - It also discusses the need for futher investigation into the sensitivity of the model to various parameters. 
 
-[Paper Link](https://arxiv.org/pdf/2101.03940.pdf)
 [Original Authors Implementation](https://github.com/EmmaRocheteau/eICU-GNN-LSTM) 
